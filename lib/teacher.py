@@ -11,6 +11,7 @@ class Teacher(User):
 # this is where first two pytest lib/testing/teacher_test.py are cleared 
 # Class "Teacher" in teacher.py is a subclass of "User"
 # Class "Teacher" in teacher.py initializes with first and last name
+
         self.knowledge = [
             "str is a data type in Python",
             "programming is hard, but it's worth it",
